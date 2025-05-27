@@ -1,5 +1,5 @@
 import os
-import pip._vendor.requests as requests
+import requests
 from venv import load_dotenv
 
 load_dotenv()
