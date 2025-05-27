@@ -1,6 +1,6 @@
 import os
-import requests
-from dotenv import load_dotenv
+import pip._vendor.requests as requests
+from venv import load_dotenv
 
 load_dotenv()
 
